@@ -8,3 +8,11 @@
 
 **Link to work:** [CSS Blog](http://codepen.io/raspal/full/OWJxMR/)
 
+### Day 2: January 04, 2017
+
+**Today's Progress**: Created another CSS Blog, one with header image and right sidebar.
+
+**Thoughts:** Don't want to clutter my GitHub page with small projects, so need to learn some other way, or put them into an organization. Will do that later. Till then, putting the projects on codepen.
+
+**Link to work:** [CSS Blog with header and sidebar](http://codepen.io/raspal/full/BpaXmB/)
+
