@@ -16,3 +16,12 @@
 
 **Link to work:** [CSS Blog with header and sidebar](http://codepen.io/raspal/full/BpaXmB/)
 
+### Day 3: January 05, 2017
+
+**Today's Progress**: Created a page with divs and with a circle and line border.
+
+**Thoughts:** Got some practice with divs and this is a cool looking border I saw on some website the other day.
+
+**Link to work:** [Divs with circle border](http://codepen.io/raspal/full/NdPBPy/)
+
+
