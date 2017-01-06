@@ -24,4 +24,13 @@
 
 **Link to work:** [Divs with circle border](http://codepen.io/raspal/full/NdPBPy/)
 
+### Day 4: January 06, 2017
+
+**Today's Progress**: Created a colorful TicTacToe board which accepts input, using HTML/CSS.
+
+**Thoughts:** Again, a simple but cool looking game, but can't store anything or decide or display the winner. Need some other technologies for that, will do it later someday.
+
+**Link to work:** [Colorful TicTacToe Board](http://codepen.io/raspal/full/YNXWBQ/)
+
+
 
