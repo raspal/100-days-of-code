@@ -32,5 +32,10 @@
 
 **Link to work:** [Colorful TicTacToe Board](http://codepen.io/raspal/full/YNXWBQ/)
 
+### Day 5: January 07, 2017
 
+**Today's Progress**: Colorful divs again. Looks like an IFTTT clone, but is just in HTML/CSS with the colorful boxes. Can be used for a services page.
 
+**Thoughts:** Need to find or brainstorm some more ideas what to create the next few days.
+
+**Link to work:** [Colorful IFTTT Clone](http://codepen.io/raspal/pen/jyPvLg/)
