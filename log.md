@@ -39,3 +39,11 @@
 **Thoughts:** Need to find or brainstorm some more ideas what to create the next few days.
 
 **Link to work:** [Colorful IFTTT Clone](http://codepen.io/raspal/pen/jyPvLg/)
+
+### Day 5: January 07, 2017
+
+**Today's Progress**: A simple photo gallery with my photos.
+
+**Thoughts:** Didn't have much time today as I attended a WordPress meetup. So did this gallery, quickly.
+
+**Link to work:** [My Photo Gallery](http://codepen.io/raspal/full/bgVNbj/)
