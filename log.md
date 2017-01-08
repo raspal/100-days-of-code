@@ -40,7 +40,7 @@
 
 **Link to work:** [Colorful IFTTT Clone](http://codepen.io/raspal/pen/jyPvLg/)
 
-### Day 5: January 07, 2017
+### Day 5: January 08, 2017
 
 **Today's Progress**: A simple photo gallery with my photos.
 
