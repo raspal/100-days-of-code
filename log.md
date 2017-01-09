@@ -40,7 +40,7 @@
 
 **Link to work:** [Colorful IFTTT Clone](http://codepen.io/raspal/pen/jyPvLg/)
 
-### Day 5: January 08, 2017
+### Day 6: January 08, 2017
 
 **Today's Progress**: A simple photo gallery with my photos.
 
@@ -48,9 +48,9 @@
 
 **Link to work:** [My Photo Gallery](http://codepen.io/raspal/full/bgVNbj/)
 
-### Day 5: January 08, 2017
+### Day 7: January 08, 2017
 
-**Today's Progress**: A simple photo gallery with my photos.
+**Today's Progress**: Added thumbnails, corrected issue with non-displaying images, images now open in new tab.
 
 **Thoughts:** All images after the 5th one weren't displaying on codepen, because I had used a local file: link. Have corrected those links, resized the images to thumbnail sizes, and changed the code on the html page. Also set to open the actual images in another tab. All images and thumbnails look okay now.
 
