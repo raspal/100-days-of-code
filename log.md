@@ -48,7 +48,7 @@
 
 **Link to work:** [My Photo Gallery](http://codepen.io/raspal/full/bgVNbj/)
 
-### Day 7: January 08, 2017
+### Day 7: January 09, 2017
 
 **Today's Progress**: Added thumbnails, corrected issue with non-displaying images, images now open in new tab.
 
