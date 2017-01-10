@@ -55,3 +55,13 @@
 **Thoughts:** All images after the 5th one weren't displaying on codepen, because I had used a local file: link. Have corrected those links, resized the images to thumbnail sizes, and changed the code on the html page. Also set to open the actual images in another tab. All images and thumbnails look okay now.
 
 **Link to work:** [My Photo Gallery](http://codepen.io/raspal/full/bgVNbj/)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Started coding my About page. Half text, half image.
+
+**Thoughts:** For some reason, my image won't display full/100% height. Have to fix this.
+
+**Link to work:** [My About Page](http://codepen.io/raspal/full/VPemRg/)
+
+
