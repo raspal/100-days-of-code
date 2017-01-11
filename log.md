@@ -64,4 +64,12 @@
 
 **Link to work:** [My About Page](http://codepen.io/raspal/full/VPemRg/)
 
+### Day 9: January 11, 2017
+
+**Today's Progress**: Created the template to use for the tribute page project. Colorful
+
+**Thoughts:** Struggled to put two divs side by sude such that the image and text take up different percentage of the box size. Then, stubled upon someone doing this without the divs. I used the same method inside divs. Problem solved. This will later serve as the template for creating the tribute page.
+
+**Link to work:** [Tribute Page Template](http://codepen.io/raspal/full/ggrpXZ/)
+
 
