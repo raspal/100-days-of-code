@@ -72,7 +72,7 @@
 
 **Link to work:** [Tribute Page Template](http://codepen.io/raspal/full/ggrpXZ/)
 
-### Day 9: January 11, 2017
+### Day 10: January 12, 2017
 
 **Today's Progress**: Created a 99% clone of UK website's Homepage. Will refine later.
 
