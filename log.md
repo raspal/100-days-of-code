@@ -72,4 +72,10 @@
 
 **Link to work:** [Tribute Page Template](http://codepen.io/raspal/full/ggrpXZ/)
 
+### Day 9: January 11, 2017
 
+**Today's Progress**: Created a 99% clone of UK website's Homepage. Will refine later.
+
+**Thoughts:** Had to struggle for a while to make the page look almost alike the UK homepage. There's still some extra spacing under the main list items in the left sidebar.
+
+**Link to work:** [UK Website Homepage Clone](http://codepen.io/raspal/full/OWNgvN/)
