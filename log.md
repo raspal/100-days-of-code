@@ -79,3 +79,11 @@
 **Thoughts:** Had to struggle for a while to make the page look almost alike the UK homepage. There's still some extra spacing under the main list items in the left sidebar.
 
 **Link to work:** [UK Website Homepage Clone](http://codepen.io/raspal/full/OWNgvN/)
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: Only created Part of my portfolio page, today.
+
+**Thoughts:** Creating and customizing the menu took a lot of time as I had to play with what selectors to target. Okay for now. Will add more to this page later someday.
+
+**Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
