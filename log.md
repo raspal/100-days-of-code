@@ -87,3 +87,11 @@
 **Thoughts:** Creating and customizing the menu took a lot of time as I had to play with what selectors to target. Okay for now. Will add more to this page later someday.
 
 **Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Updated my portfolio page.
+
+**Thoughts:** Couldn't tweet or update log yesterday, though had worked quite a few hours on my portfolio page.
+
+**Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
