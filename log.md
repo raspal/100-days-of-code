@@ -95,3 +95,11 @@
 **Thoughts:** Couldn't tweet or update log yesterday, though had worked quite a few hours on my portfolio page.
 
 **Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: Continued updating my portfolio page.
+
+**Thoughts:** Added a few more sections, played with some cool looking colors and shades. Experimented with a few other things to add. Have added the repo to GitHub. This becomes my first working repo on GitHub, though not really the first project I started with. Will add the other projects I've done, later, from codepen.
+
+**Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
