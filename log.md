@@ -103,3 +103,21 @@
 **Thoughts:** Added a few more sections, played with some cool looking colors and shades. Experimented with a few other things to add. Have added the repo to GitHub. This becomes my first working repo on GitHub, though not really the first project I started with. Will add the other projects I've done, later, from codepen.
 
 **Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: Still updating my portfolio page. Added more sections.
+
+**Thoughts:** 
+
+**Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: Added to the blog and portfolio sections of my portfolio.
+
+**Thoughts:** Added placeholder blog posts, three of my projects in the portfolio section, and tidied the CSS. I'm also putting my code in codepen, because people can't view/run my code from github repos unless they download it. Codepen is a hassle if there are images in the project, I had to upload them using ftp, to my webhost. Dropbox links didn't work. All this took like a good 4 hours.
+
+**Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
+
+
