@@ -120,4 +120,12 @@
 
 **Link to work:** [My Portfolio](http://codepen.io/raspal/full/ggMxjW/)
 
+### Day 16: January 18, 2017
 
+**Today's Progress**: Added a bottom navbar and a footer.
+
+**Thoughts:** Added a bottom navbar and a footer with lots of placeholder links. Still need to remove an unwanted whitespace between the two, and make the page responsive and proper full width.
+
+**Link to work:**
+* [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
+* [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
