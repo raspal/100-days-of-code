@@ -129,3 +129,9 @@
 **Link to work:**
 * [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
 * [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Mostly, coded on two private pages having Hindi content.
+
+**Thoughts:** Mostly, coded on two private pages in Hindi today, so no links. But did code for 2+ hours. If anyone still wants to have a look, I can give a temporqry link.
