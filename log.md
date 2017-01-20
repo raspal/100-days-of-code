@@ -136,7 +136,7 @@
 
 **Thoughts:** Mostly, coded on two private pages in Hindi today, so no links. But did code for 2+ hours. If anyone still wants to have a look, I can give a temporqry link.
 
-### Day 17: January 19, 2017
+### Day 18: January 20, 2017
 
 **Today's Progress**: Added a testimonials section with placeholder testimonials and a red border between sections.
 
