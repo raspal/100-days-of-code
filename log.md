@@ -145,3 +145,13 @@
 **Link to work:**
 * [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
 * [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 19: January 21, 2017
+
+**Today's Progress**: Added anther footer with social connect icons from fontawesome and copyright.
+
+**Thoughts:** Used a tiny javascript code copied from stackoverflow, for mouseover effect. Doesn't seem to work unless we mouse over once. But, is fine for now. Will change it later using CSS. I needed inline CSS ATM so used javascript as there's no equivalent to a:hover for inline CSS styles.
+
+**Link to work:**
+* [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
+* [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
