@@ -165,3 +165,13 @@
 **Link to work:**
 * [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
 * [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 21: January 23, 2017
+
+**Today's Progress**: Moved most of the inline CSS to the CSS file.
+
+**Thoughts:** Some sections don't seem to display properly. Will work on these tomorrow.
+
+**Link to work:**
+* [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
+* [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
