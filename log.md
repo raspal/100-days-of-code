@@ -155,3 +155,13 @@
 **Link to work:**
 * [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
 * [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 20: January 22, 2017
+
+**Today's Progress**: Added a book image for the newsletter optin, and replaced old JS code with CSS for social icons.
+
+**Thoughts:** Created and added a book image for the newsletter optin. Still need to tweak the position. Also replaced the old JS code I used a day ago for social icons' mouse over color change, to CSS. I wanted to use inline-styles but couldn't do it for pseudo element, :hover. Now using this in style tags in the <head>.
+
+**Link to work:**
+* [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
+* [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
