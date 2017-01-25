@@ -175,3 +175,18 @@
 **Link to work:**
 * [My Portfolio] (https://github.com/raspal/my100projects/tree/master/myportfolio)
 * [See it in Action](http://codepen.io/raspal/full/ggMxjW/)
+
+### Day 22: January 24, 2017
+
+**Don't know what happened to yesterday's update, seems it didn't save.
+
+
+### Day 23: January 25, 2017
+
+**Today's Progress**: Created new portfolio boilerplate. Adding content and styling. To continue tomorrow. 
+
+**Thoughts:** Struggling to keep everything responsive. Not using bootstrap, only custom CSS.
+
+**Link to work:**
+* [New Portfolio] (https://github.com/raspal/newportfolio)
+* [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
