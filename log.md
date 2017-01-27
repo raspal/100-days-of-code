@@ -192,13 +192,22 @@
 * [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
 
 
-
-
 ### Day 24: January 26, 2017
 
 **Today's Progress**: Tried to move content from my portfolio project to this new portfolio. Then moved the footer.
 
 **Thoughts:** Having a tough time trying to make it responsive without bootstrap. Still struggling to keep everything responsive. Not using bootstrap, only custom CSS. Footer text needs some fixing.
+
+**Link to work:**
+* [New Portfolio] (https://github.com/raspal/newportfolio)
+* [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
+
+
+### Day 25: January 27, 2017
+
+**Today's Progress**: Added portfolio and services sections.
+
+**Thoughts:** Trying to make the page responsive without using bootstrap. Not yet successful, but hope to achieve this soon.
 
 **Link to work:**
 * [New Portfolio] (https://github.com/raspal/newportfolio)
