@@ -212,3 +212,14 @@
 **Link to work:**
 * [New Portfolio] (https://github.com/raspal/newportfolio)
 * [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
+
+
+### Day 26: January 29, 2017
+
+**Today's Progress**: Still creating new portfolio sections, not using bootstrap.
+
+**Thoughts:** Trying to make the page responsive without using bootstrap. Not yet successful, but but better than the day before. Using media queries. Also moved inline styles to the CSS file.
+
+**Link to work:**
+* [New Portfolio] (https://github.com/raspal/newportfolio)
+* [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
