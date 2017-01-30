@@ -223,3 +223,20 @@
 **Link to work:**
 * [New Portfolio] (https://github.com/raspal/newportfolio)
 * [See it in Action](http://codepen.io/raspal/full/QdMzXP/)
+
+### Day 27: January 30, 2017
+
+**Today's Progress**: Created a web design questionnaire/form.
+
+**Thoughts:** No links today, trying to push with git, getting strange errors.
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/raspal/webdesign_questionnaire_form.git'
+
+Kept struggling, to push changes to the above repo. Tried many things, deleted and recreated the repo ad added again, no use!
+
+But, created a web design questionnaire/form. Will try to add tomorrow to a new repo.
+
+**Link to work:**
+No link today as it didn't push to github.
+
+
